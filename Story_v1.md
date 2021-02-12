@@ -35,4 +35,5 @@
 
 Полное описание всех сценариев доступно [здесь](https://hulkbusters-factory.atlassian.net/wiki/spaces/PIZZA7/pages/458753)
 
-## Картинка о пользе компиляторов ![картинка](https://engineertips.files.wordpress.com/2019/07/girlfriend-vs-compiler.png?w=640)
+## Добавил схему метро Омска ![Омск](https://superomsk.ru/images/news/full/2011/10/6678e076e55787845db13a3a6dc2e85e.jpg)
+
