@@ -35,4 +35,4 @@
 
 Полное описание всех сценариев доступно [здесь](https://hulkbusters-factory.atlassian.net/wiki/spaces/PIZZA7/pages/458753)
 
-А это просто мемамасик, который поднял мне настроение ![мемасик](https://i.redd.it/75yo4widpi451.png)
+## Картинка о пользе компиляторов ![картинка](https://engineertips.files.wordpress.com/2019/07/girlfriend-vs-compiler.png?w=640)
