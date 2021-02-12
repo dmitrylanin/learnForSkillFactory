@@ -35,4 +35,4 @@
 
 Полное описание всех сценариев доступно [здесь](https://hulkbusters-factory.atlassian.net/wiki/spaces/PIZZA7/pages/458753)
 
-А это просто мемамасик, который поднял мне настроение ![мемасик](https://i.redd.it/75yo4widpi451.png)
+## Добавил схему метро Омска ![Омск](https://superomsk.ru/images/news/full/2011/10/6678e076e55787845db13a3a6dc2e85e.jpg)
